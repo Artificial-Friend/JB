@@ -1,3 +1,2 @@
 # JB
-JetBrains
-Hyperskill training projects. Basically shitcode.
+This is garbage. I will fix it. Maybe.
